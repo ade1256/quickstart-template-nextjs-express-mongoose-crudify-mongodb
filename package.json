@@ -27,5 +27,17 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ade1256/quickstart-template-nextjs-express-mongoose-crudify-mongodb.git"
+  },
+  "keywords": [
+    "quickstart-nextjs-express-mongodb"
+  ],
+  "author": "Ade Prasetyo",
+  "bugs": {
+    "url": "https://github.com/ade1256/quickstart-template-nextjs-express-mongoose-crudify-mongodb/issues"
+  },
+  "homepage": "https://github.com/ade1256/quickstart-template-nextjs-express-mongoose-crudify-mongodb#readme"
 }
